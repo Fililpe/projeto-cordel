@@ -36,7 +36,7 @@ header  a{
 }
 main{
     font-family: sriracha, cursive;
-    line-height: 7rem;
+    line-height: 5rem;
 }
 main p{
     font-size: 3vw;
@@ -46,6 +46,7 @@ main p{
     background-image: url(imagens/background001.jpg);
     background-size: cover;
     background-attachment: fixed;
+    
 }
 #img02{
     background-image: url(imagens/background002.jpg);
